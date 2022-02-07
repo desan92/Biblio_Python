@@ -1,0 +1,1 @@
+Projecte de gestio de una bibilioteca realitzat amb Python. Tot el proces ha estat fet amb el framework Tkinker.
